@@ -1,0 +1,5 @@
+com\farooq\kafka\examples\DuplicateWord$WordCountTransformerSupplier.class
+com\farooq\kafka\examples\DuplicateWord$WordCountTransformerSupplier$1.class
+com\farooq\kafka\examples\WordsProducer.class
+com\farooq\kafka\examples\DuplicateWord.class
+com\farooq\kafka\examples\WordDupsTransformer.class
